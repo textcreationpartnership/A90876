@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The portrait of his Majesty Charles the Second. Faithfully taken to the life</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90876</idno>
+            <idno type="STC">Wing P3002A</idno>
+            <idno type="STC">ESTC R229899</idno>
+            <idno type="EEBO-CITATION">99895722</idno>
+            <idno type="PROQUEST">99895722</idno>
+            <idno type="VID">153267</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90876)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153267)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2357:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The portrait of his Majesty Charles the Second. Faithfully taken to the life</title>
+                  <author>Faithorne, William, 1616-1691, engraver.</author>
+               </titleStmt>
+               <extent>[8] p., plate   </extent>
+               <publicationStmt>
+                  <publisher>printed by Thomas Creake,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Plate = portrait of Charles II, signed "G: Faithorne exeu:".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:153267:1"/>
+            <pb facs="tcp:153267:1"/>
+            <pb facs="tcp:153267:2"/>
+            <pb facs="tcp:153267:2"/>
+            <p>
+               <figure>
+                  <q>HONI: SOIT: QVI: MAL: Y: PENSE.</q>
+                  <byline>G: Faithorne <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </byline>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:153267:3"/>
+            <pb facs="tcp:153267:3"/>
+            <p>THE PORTRAIT OF HIS MAJESTY Charles the Second.</p>
+            <p>Faithfully taken to the LIFE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Creake.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:153267:4"/>
+            <pb facs="tcp:153267:4"/>
+            <head>The Portrait of His MAjESTY, <hi>CHARLES</hi> the II.</head>
+            <l>KIngs like the Sunne, in their full Majeſties,</l>
+            <l>Are too Reſplendent bright for ſubjects eyes;</l>
+            <l>Nor without dazling can their weaker ſight,</l>
+            <l>Suſtain the force of ſo much glorious light.</l>
+            <l>But when Ecclipſt, then every one can ſee</l>
+            <l>(Without that ſplendor,) what their perſons be.</l>
+            <l>In which Conjuncture who ſo e'r has ſeen</l>
+            <l>This Sunne of ours, may well affirm of him,</l>
+            <l>His Perſon's ſuch, as he for that alone</l>
+            <l>(His Birth away) deſerves the Royal Throne;</l>
+            <l>Such Majeſty appears in 't, and ſuch Grace</l>
+            <l>(Both awing and delighting) in his Face,</l>
+            <l>Without thoſe Kingly Robes Adorn the Throne,</l>
+            <l>
+               <pb facs="tcp:153267:5"/>H'apear more King, then thoſe who have them on.</l>
+            <l>His Statur's Tall, and of the comlyeſt make,</l>
+            <l>His Viſage ovall, his Heyr thick and Black,</l>
+            <l>In ample Curles, on's Shoulders falling down,</l>
+            <l>Adorning more his Head, then any Crown.</l>
+            <l>His Eyes are Lively, full of Flame and Sprit,</l>
+            <l>And of that colour, moſt delights the ſight:</l>
+            <l>Royal, and largly featur'd all the reſt,</l>
+            <l>Declaring largneſſe of his Royal Breaſt;</l>
+            <l>And of ſo healthful Conſtitution,</l>
+            <l>As he had Articled with Sickneſſe, none</l>
+            <l>Should e're moleſt and grieve him, nor he e're</l>
+            <l>By'exceſſe provoke them. to which much confer,</l>
+            <l>His wonted Exerciſes, who in all</l>
+            <l>The Nobleſt, Gallants, and moſt Martial,</l>
+            <l>Who er's moſt Excellent, ſo far Excels,</l>
+            <l>He's King in them, as he's in all things elſe:</l>
+            <l>(And who'd be abſolute in every thing</l>
+            <l>As well as Birth and Power, ſhou'd be a King)</l>
+            <l>
+               <pb facs="tcp:153267:5"/>Nor ſhall you er'e in any perſon find</l>
+            <l>A greater ſtrength of body and of minde;</l>
+            <l>Which with long Travail, h'as improved ſo,</l>
+            <l>He knows what er'e befits a Prince to know;</l>
+            <l>Not learnt from th' dead, but from the World &amp; Men</l>
+            <l>Thoſe Living Authors, and h'as ſtudyed them,</l>
+            <l>So as each Nations wiſdome he dos know,</l>
+            <l>And each on's Language to expreſſe it too.</l>
+            <l>Whence he compar'd to other Princes, ſit</l>
+            <l>Dully at home, and nothing know but it,</l>
+            <l>Seems juſt like ſome huge <hi>Gallyon</hi> dos come</l>
+            <l>From fartheſt <hi>Indiis,</hi> richly laden home,</l>
+            <l>Compar'd to ſome poor <hi>Hoy,</hi> or <hi>Bylander</hi>
+            </l>
+            <l>Then their own ſhores, &amp; coaſts, ne'r further wear,</l>
+            <l>And never none to Fortune more did owe,</l>
+            <l>Then to misfortune he, for being ſo.</l>
+            <l>For moral vertues then, ha's every one</l>
+            <l>In their full ſplendors and perfection,</l>
+            <l>Juſtice, not Clouded with ſeverity,</l>
+            <l>
+               <pb facs="tcp:153267:6" rendition="simple:additions"/>Nor Temperanee, with ſowr auſterity;</l>
+            <l>And ne'r in none more Courage was, nor more</l>
+            <l>Wiſdom and Prudence, with leſs vanety, nor</l>
+            <l>With leſſer Artifice. And or's paſſions he</l>
+            <l>Commands ſo ſovereignly and abſolutely,</l>
+            <l>It ſhewes him King over himſelf, as well</l>
+            <l>As over others. nor dos he leſs excell</l>
+            <l>In civill vertues, which adorn no leſs</l>
+            <l>The Royall Throne, as mildneſs, gentelneſs,</l>
+            <l>Raviſhing ſwetneſſe, debonarity,</l>
+            <l>Obligingneſſe, and affability,</l>
+            <l>That more dos conquer with a gentle word,</l>
+            <l>Then ever any Conquer'd by the Sword,</l>
+            <l>Acquiring by <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> abſolute Dominion</l>
+            <l>And Sovereign ſway o'r hearts of every one.</l>
+            <l>Mean time he is ſo cheerfull and ſo gay</l>
+            <l>None from his preſence er'e went ſad away,</l>
+            <l>Nor yet could all his troubles nor his cares</l>
+            <l>Render him leſs Gay and cheerfull, which declares</l>
+            <l>
+               <pb facs="tcp:153267:6"/>His mind's above them all, and h'as within</l>
+            <l>Him, ſomewhat higher then the beeing KING,</l>
+            <l>Juſt like the higheſt Region of the Aire</l>
+            <l>'Bove Storms and Tempeſts, nor could Fortune er'e,</l>
+            <l>Eclipſe his mind. For Courtly vertues then</l>
+            <l>In which Kings too, ſhould excel other Men,</l>
+            <l>As far as Courts, do other Houſes, he</l>
+            <l>Appears in every one, to Excellency,</l>
+            <l>Daunces ſo admirably as your Eye</l>
+            <l>As well as Ear's all charm'd with Harmony,</l>
+            <l>Underſtands Muſick, Poetry and Wit,</l>
+            <l>And none knows better how to judge of it:</l>
+            <l>In fine, in every thing that curious is</l>
+            <l>No'ns taſt was e'r more delicate then his,</l>
+            <l>And as he is a King 'mongſt Courtiers, ſo</l>
+            <l>'Mongſt Ladies, he's both King and Courtier too.</l>
+            <l>How happy are his ſubjects then, t'have one</l>
+            <l>For King, Heaven ſeems t'have choſen King, alone</l>
+            <l>To make them happy? one, they need but pray</l>
+            <l>
+               <pb facs="tcp:153267:7" rendition="simple:additions"/>That as ha's born Adverſity, he may</l>
+            <l>But bear proſperity as well, and then</l>
+            <l>As ſtill ha's been, he'ill be the beſt of Men.</l>
+            <l>One, finally in whom ye united finde</l>
+            <l>(Beſides his Birth, his perſon, and his mind)</l>
+            <l>All that, which found in others one by one</l>
+            <l>Raiſe them to height of Admiration,</l>
+            <l>The Wiſe, the Valliant, the Majeſtical,</l>
+            <l>The Milde, the Gallant, and the King all.</l>
+            <l>More Glorious are his ſufferings then, and more</l>
+            <l>Injurious Fortune, perſecutes him for</l>
+            <l>His Royal Birth alone, who had he been</l>
+            <l>Born private Man, deſerv d to be a King.</l>
+            <l>Such is her ignorant blindneſſe, dos not know</l>
+            <l>His eminent worth whom ſhe disfavours ſo,</l>
+            <l>Would find, wear ſhe unveyld and could but ſee,</l>
+            <l>None e'r deſerv'd her favours more then he.</l>
+            <trailer type="illustration">
+               <figure>
+                  <figDesc>Tudor rose</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Scottish thistle</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>French fleur-de-lis</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of Irish harp</figDesc>
+               </figure>
+            </trailer>
+            <pb facs="tcp:153267:7"/>
+            <pb facs="tcp:153267:8"/>
+            <pb facs="tcp:153267:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
